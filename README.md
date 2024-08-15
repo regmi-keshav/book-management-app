@@ -239,4 +239,5 @@ Deletes a specific book by its ID.
 #### Frontend Pages
 
 - Home Page (`/`): Lists all books and provides options to add or update books.
+- Add Book Page (`/add-book/`): Provides a form to add book's details.
 - Update Book Page (`/update-book/:id`): Provides a form to update a specific book's details.
